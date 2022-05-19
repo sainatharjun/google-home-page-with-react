@@ -1,0 +1,46 @@
+#maindiv{
+  min-width:284px;
+  width: auto;
+  max-width: 584px;
+  border-radius: 50px;
+  display: flex;
+  height:44px;
+  border: 1px solid #dfe1e5;
+  }
+  #maindiv:hover{
+    background-color: #fff;
+    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+    border-color: rgba(223,225,229,0);
+  }
+  
+  .gb_Ve{
+    width: 25px;
+    margin: 7px 7px;
+  }
+  #inputspan{
+    width:80%;
+  }
+  #searchInput:focus-visible{
+    border: none;
+    outline: none;
+  }
+  span{
+    vertical-align: top;
+  }
+  span:first-child{
+    width:10%;
+    border-radius: 50px;
+    margin-top: 7px;
+  }
+  span:last-child{
+    width:10%;
+    border-radius: 50px;
+    margin-top: 7px;
+  }
+  
+  input{
+    height:100%;
+    width:100%;
+    border: none;
+    padding:0px;
+  }

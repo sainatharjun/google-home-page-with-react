@@ -1,0 +1,61 @@
+.fbar {
+  display: none;
+  line-height: 35px;
+  text-align: center;
+  font-size: 13px;
+}
+
+@media  (max-width: 600px) {
+  #swml {
+  border-top: 1px solid #dadce0;
+  height: auto;
+  line-height: 15px;
+  margin: 0;
+  min-height: 15px;
+  padding: 15px 0;
+  visibility: visible;
+}
+.As6eLe{padding-bottom:10px;background:#f2f2f2}
+.Lt2Ned{margin-top:-10px}
+.j9xd9b{display:inline-block}
+.lA8P5e{color:#3c4043}
+.cF4V5c{background-color:#fff}
+.cF4V5c g-menu-item{display:block;font-size:14px;line-height:23px;white-space:nowrap}
+.cF4V5c g-menu-item a,.cF4V5c .y0fQ9c{display:block;padding-top:4px;padding-bottom:4px;cursor:pointer}
+.cF4V5c g-menu-item a,.cF4V5c g-menu-item a:visited,.cF4V5c g-menu-item a:hover{text-decoration:inherit;color:inherit}
+.fbar {
+  margin-left: -27px;
+}
+.M6hT6 {
+  left: 0;
+  right: 0;
+  -webkit-text-size-adjust: none;
+}
+
+.JQyAhb {
+  border-top: 1px solid #dadce0;
+  padding-top: 10px;
+}
+.fbar p, .fbar a {
+  color: #70757a;
+}
+.fbar a {
+  text-decoration: none!important;
+  white-space: nowrap;
+}
+.fbar a:hover{
+  color: #3c4043;
+}
+.Fx4vi {
+  padding-left: 27px;
+  margin: 0 !important;
+}
+
+.fbar{
+  display: block;
+}
+.footerContent{
+  display: none;
+}
+}
+

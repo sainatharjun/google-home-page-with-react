@@ -1,0 +1,84 @@
+/* Styling of navigation bar */
+
+body{
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+}
+center{
+  height: 76.6vh;
+}
+
+
+
+
+#googleimg{
+  margin-top: 16px;
+  height: 92px;
+  width: 272px;
+}
+/* Removing underline from links*/
+
+@media  (max-width: 600px) {
+  button {
+    min-width: 80px;
+  }
+  #googleimg{
+    height: 56px;
+    width: 165px;
+    text-align: center;
+    margin: 36px auto 18px;
+    /* width: 160px; */
+    line-height: 0;
+  }
+  #mobile-nav a{
+    display: block;
+  }
+  body{
+    overflow-y: scroll;
+  }
+  .c{
+    display: none;
+  }
+  nav{
+    padding: 0;
+  }
+  #navdiv{
+    padding: 6px 12px;
+  }
+  center{
+    padding-top: 20px;
+  }
+  #additionalLanguages_child a {
+    padding: 0 8px!important;
+    text-decoration: none;
+  }
+  #additionalLanguages_child{
+    word-break: break-all;
+  }
+}
+/* setting up size and border stle of search bar*/
+
+
+
+
+ul{
+  display: flex;
+  width: 30%;
+  padding-left: 0px;
+  list-style: none;
+  justify-content: space-around;
+  margin: 6px;
+}
+#Bottomdiv{
+  display:flex;
+  font-size: 12px;
+  margin-top: 3%;
+}
+#Bottomdiv span{
+  width:10%;
+  margin-left: 31%;
+}
+/*When hovered*/
+
+
